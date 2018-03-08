@@ -1,0 +1,2 @@
+CommentEraser version 0.1
+Copyright (C) 2009-2018 Hirohisa AMAN <aman@computer.org>

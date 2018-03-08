@@ -1,0 +1,5 @@
+$ java -jar CommentEraser.jar  source_file
+
+This application prints the source code written in the given file, except for the comments.
+Source code written in Java/C/C++ is supported.
+ 
